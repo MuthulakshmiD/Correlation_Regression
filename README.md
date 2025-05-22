@@ -1,5 +1,6 @@
 # Correlation and regression for data analysis
-## Name : Muthulaksshmi D - 212223040122
+## Name : Muthulaksshmi D 
+## Reg : 212223040122
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
